@@ -1,2 +1,2 @@
-# youreonmute
-You're on mute
+# You're on mute
+A friendly remote working helper.
